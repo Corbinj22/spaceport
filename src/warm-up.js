@@ -38,7 +38,7 @@ if(age > 100) {
 // the 5 characters, log the statement ‘Hi there [name]!’. Otherwise, log the
 // statement ‘Well hello [name]’. In either case, the value stored in the name
 // variable should be included in the logged statement.
-var newName = ‘Hubert Wolfstern’;
+var newName = 'Hubert Wolfstern';
 if(newName.length > 5) {
   console.log(`Hi there ${newName}`);
 }
