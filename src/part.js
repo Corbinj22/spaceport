@@ -1,5 +1,5 @@
 
-var validTypes = ['shell', 'hyperdrive', 'computer', 'life support', 'landing gear', undefined];
+ validTypes = ['shell', 'hyperdrive', 'computer', 'life support', 'landing gear', undefined];
 
 class Part {
   constructor(partInfo) {
